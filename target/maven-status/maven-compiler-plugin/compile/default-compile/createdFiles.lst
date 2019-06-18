@@ -1,0 +1,5 @@
+br\com\polizello\model\Contato.class
+br\com\polizello\servlet\AdicionaContatoServlet.class
+br\com\polizello\jdbc\ConnectionFactory.class
+br\com\polizello\servlet\OiMundo.class
+br\com\polizello\dao\ContatoDao.class
